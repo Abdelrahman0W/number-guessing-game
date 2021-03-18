@@ -1,3 +1,5 @@
-# Guess The Number Game
+# Number Guessing Game
 
-This Python Code Lets You play "Guess The Number" W/ the Computer but this time, The computer is guessing
+Think of a number and let the computer guess it.
+
+It's a python script that uses bisection to guess the number the user thinks about.
