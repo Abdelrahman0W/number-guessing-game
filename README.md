@@ -2,9 +2,7 @@
 
 ## Description:
 
-A simple python code that allows the user to play a number guessing game with the computer.
-
-The user will be asked to enter two numbers and think of any number between them. Then the code will try to guess that number using bisectionin.
+A simple python code that allows the user to play a number guessing game with the computer. The user will be asked to enter two numbers and think of any number between them. Then the code will try to guess that number using bisectionin.
 
 ## Give it a try:
 
