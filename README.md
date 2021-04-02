@@ -8,20 +8,12 @@ The user will be asked to enter two numbers and think of any number between them
 
 ## Give it a try:
 
-<script>
-    function myFunction(id) {
-      var copyText = document.getElementById(id);
-      copyText.select();
-      copyText.setSelectionRange(0, 99999);
-      document.execCommand("copy");
-    }
-</script>
-
-1. Clone this repository: <p hidden id="1">git clone https://github.com/Abdelrahman0W/number-guessing-game</p><button onclick="myFunction("1")">Copy</button>
+1. Clone this repository:
 
     ```bash
     $ git clone https://github.com/Abdelrahman0W/number-guessing-game
     ```
+
 1. Go to repo directory:
 
     ```bash
